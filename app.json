@@ -1,0 +1,37 @@
+{
+  "expo": {
+    "name": "coronAPP",
+    "slug": "coronapp",
+    "privacy": "public",
+    "sdkVersion": "36.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/images/icon.png",
+    "scheme": "myapp",
+    "splash": {
+      "image": "./assets/images/virus.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.coronapp.coronapp",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.coronapp.coronapp",
+      "versionCode": 1
+    },
+    "description": "a corona updating app "
+  }
+}
