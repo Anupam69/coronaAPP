@@ -7,7 +7,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/anupam-tiwari/fit-d-internship">
-    <img src="https://static.wixstatic.com/media/7e2d36_e0bc378e5a234f619d37e2c0409ab52e~mv2.png/v1/fill/w_120,h_81,al_c,q_85,usm_0.66_1.00_0.01/logo.webp" alt="Logo" width="100" height="80">
+    <img src="https://instagram.fpnq10-1.fna.fbcdn.net/v/t51.2885-19/s150x150/89816527_525193625082879_8603021447545225216_n.jpg?_nc_ht=instagram.fpnq10-1.fna.fbcdn.net&_nc_ohc=FlohHyLK5SEAX_rp5YH&tp=1&oh=3666e14ddf580896c5d5a6f431a3ed70&oe=601C3FDF" alt="Logo" width="100" height="80">
   </a>
 
   <h3 align="center">CoronAPP Berkeley</h3>
